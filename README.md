@@ -9,5 +9,4 @@ This is simple and basic level small project for learning purpose and it can mod
 
 ## User Interface
 
-
-
+![Picture1](https://user-images.githubusercontent.com/65526190/128988518-94e9553a-e74c-4640-aaf6-fb528d34e268.png)
